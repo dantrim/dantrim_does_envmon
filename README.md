@@ -4,7 +4,7 @@ Simple wrapper example for the ITkPix Strips EnvMon board
 ## Installation
 Follow these steps to checkout this repository and compile the code.
 ```
-git clone --recursive <url>
+git clone --recursive https://github.com/dantrim/dantrim_does_envmon.git
 cd dantrim_does_envmon/
 mkdir build
 cd build
